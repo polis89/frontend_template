@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/polis89/frontend_template/issues"
   },
-  "homepage": "https://github.com/polis89/frontend_template#readme"
+  "homepage": "https://github.com/polis89/frontend_template#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-sass": "^3.1.0"
+  }
 }

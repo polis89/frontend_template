@@ -1,0 +1,21 @@
+{
+  "name": "frontend_template",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "Dmitrii Polianskii"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/polis89/frontend_template",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/libs",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "^3.2.1"
+  }
+}
